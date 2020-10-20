@@ -1,0 +1,16 @@
+body {
+  position: center;
+  text-align: center;
+  font-weight: 700;
+}
+
+img {
+  width: 50%;
+  height: auto;
+}
+
+.card {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom: 3px solid black;
+}
